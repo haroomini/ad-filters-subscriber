@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-08-07 16:12:42
+! Last Modified: 2023-08-08 00:12:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: AdGuard 移动广告过滤器 (https://filters.adtidy.org/android/filters/11_optimized.txt)
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -127,12 +127,6 @@
 ||ads.livetv*.me^
 ||prebid-*.rubiconproject.com^
 Banner468x60
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
-||ads*.dfiles.eu^
-@@||adobeid-*.services.adobe.com^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
-~Prebid.js
 ! 👇This Part Merge from: AdGuard 中文过滤器 (https://filters.adtidy.org/android/filters/224_optimized.txt)
 ||8*.tianya.cn^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -147,22 +141,16 @@ Banner468x60
 ||dojumbhhij._tcp.abcnews.hb.tt.omtrdc.net^
 ||fwwvvsvlvt._tcp.meet.aetv.hb.tt.omtrdc.net^
 ||kmmudmaxfg._tcp.meet.aem.hb.tt.omtrdc.net^
-||pvewovjpwx._tcp.hb.tt.omtrdc.net^
-||qlvxxxvfse._tcp.arkena.hb.tt.omtrdc.net^
 ||bsvszgfboc._tcp.arkena.hb.tt.omtrdc.net^
 ||ekgbwmtyqi._tcp.aarp.hb.tt.omtrdc.net^
-||nlufdipfam._tcp.arkena.hb.tt.omtrdc.net^
 ||lfosjghqbh._tcp.aem.hb.tt.omtrdc.net^
 ||ottwqtfywh._tcp.aem.hb.tt.omtrdc.net^
-||qamlholfgm._tcp.arkena.hb.tt.omtrdc.net^
 ||fdbbwkecyo._tcp.meet.aetv.hb.tt.omtrdc.net^
 ||jhhhlbdujq._tcp.hb.tt.omtrdc.net^
 ||idfzvjhwcn._tcp.meet.abcotv.hb.tt.omtrdc.net^
 ||iezkkotjdy._tcp.meet.arkena.hb.tt.omtrdc.net^
 ||ojsiqgmgoo._tcp.meet.arkena.hb.tt.omtrdc.net^
 ||mail._domainkey.hb.tt.omtrdc.net^
-||rkqcuubamk._tcp.abcotv.hb.tt.omtrdc.net^
-||moygriyjac._tcp.meet.aem.hb.tt.omtrdc.net^
 ||kiojgaikei._tcp.abcotv.hb.tt.omtrdc.net^
 ||iizpqggmda._tcp.hb.tt.omtrdc.net^
 ||kvgiuvfvdg._tcp.meet.aem.hb.tt.omtrdc.net^
@@ -171,10 +159,8 @@ Banner468x60
 ||anlrzzjcmm._tcp.arkena.hb.tt.omtrdc.net^
 ||hmmkwruhsw._tcp.aetv.hb.tt.omtrdc.net^
 ||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
-||ozbnpzzdlb._tcp.meet.bizjournals.hb.tt.omtrdc.net^
 ||ojyutmxesr.mail._domainkey.hb.tt.omtrdc.net^
 ||eihnzkgtax._tcp.meet.aem.hb.tt.omtrdc.net^
-||llovzphjgh._tcp.aarp.hb.tt.omtrdc.net^
 ||clmwrxexsv._tcp.meet.aem.hb.tt.omtrdc.net^
 ||crslhvbltc._tcp.att.hb.tt.omtrdc.net^
 ||bbfbffvffm._tcp.aem.hb.tt.omtrdc.net^
@@ -183,8 +169,6 @@ Banner468x60
 ||enlpqhkicg._tcp.hb.tt.omtrdc.net^
 ||cadfiomxrv._tcp.abc.hb.tt.omtrdc.net^
 ||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
-||get-me-wow.
 ! 👇This Part Merge from: AdGuard 中文过滤器 (https://filters.adtidy.org/android/filters/224_optimized.txt)
 ||sax*.sina.
 ||adi*.cnool.net^
@@ -196,8 +180,6 @@ Banner468x60
 ||sam*.baby-kingdom.com^
 ||impservice*.yodao.com^
 ||ja*.gamersky.com^
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
-||util-*.simply-hentai.com^
 ! 👇This Part Merge from: AdGuard 中文过滤器 (https://filters.adtidy.org/android/filters/224_optimized.txt)
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -222,21 +204,12 @@ Banner468x60
 ||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
-||thissubdomainshouldonlyresolveifwildcard._.hb.tt.omtrdc.net^
-||tfxzuivnnc._tcp.abcnews.hb.tt.omtrdc.net^
-||vckcafprbb._tcp.abcotv.hb.tt.omtrdc.net^
 ||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
-||uwkoqimpdh._tcp.aetv.hb.tt.omtrdc.net^
 ||zzdewpyihb._tcp.aarp.hb.tt.omtrdc.net^
 ||vwymdcjirv._tcp.aarp.hb.tt.omtrdc.net^
 ||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
-||uzmuuxobvq._tcp.meet.arkena.hb.tt.omtrdc.net^
-||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
-||thissubdomainshouldonlyresolveifwildcard._dmarc.hb.tt.omtrdc.net^
-||socnkyktgw._.hb.tt.omtrdc.net^
-||wrgjxhsgij._tcp.arkena.hb.tt.omtrdc.net^
 ||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
-||wredoakyhs._tcp.abcotv.hb.tt.omtrdc.net^
+||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
 ||ynovrhljia._tcp.aem.hb.tt.omtrdc.net^
 ! 👇This Part Merge from: CJX's Annoyance List (https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
 ||acookie.*.gif?
@@ -298,10 +271,19 @@ directtrack.*.js
 ||log*.byteoversea.com^
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
-! 👇This Part Merge from: AWAvenue 秋风广告规则 (https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
-||pagead*.google.com^
-||ads*-normal-lq.zijieapi.com^
-||ad.*.xiaomi.com^
+! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
+||ads*.dfiles.eu^
+@@||adobeid-*.services.adobe.com^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
+~Prebid.js
+! 👇This Part Merge from: 乘风 视频过滤规则 (https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt)
+728x90.jpg|
+||onetrust.
+! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
+||get-me-wow.
+! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
+||util-*.simply-hentai.com^
 ! 👇This Part Merge from: jiekouAD (https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
@@ -328,6 +310,7 @@ directtrack.*.js
 ! 👇This Part Merge from: uBlock₀ filters – Privacy (https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt)
 ||collector.xhamster*.*^
 ||collector.hamsterix.*^
-! 👇This Part Merge from: 乘风 视频过滤规则 (https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt)
-728x90.jpg|
-||onetrust.
+! 👇This Part Merge from: AWAvenue 秋风广告规则 (https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
+||pagead*.google.com^
+||ads*-normal-lq.zijieapi.com^
+||ad.*.xiaomi.com^
