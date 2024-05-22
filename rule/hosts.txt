@@ -1,4 +1,4 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-05-22 08:49:22
+! Last Modified: 2024-05-22 16:14:24
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
