@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-04 00:13:29
+! Last Modified: 2024-08-04 08:57:35
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 广告过滤规则 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||allyes.
@@ -26,22 +26,6 @@
 ||adsame.
 ! 👇This Part Merge from: CJX's Annoyance List (https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
 ||acookie.*.gif?
-! 👇This Part Merge from: AdGuard 中文过滤器 (https://filters.adtidy.org/android/filters/224_optimized.txt)
-||38.33.15.*.gif
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||67.21.92.*.gif
-||adi*.cnool.net^
-||tupian888.*.bcebos.com^
-||txhfgwgkwt*.asia^
-||iwanshang*.asia^
-||ad*.on.cc^
-||ax.*.ifeng.com^
-||121.204.246.*.gif
-||107.167.16.*.gif
-||vns86.oss-*.aliyuncs.com^
-||asd8900.oss-*.aliyuncs.com^
-||ky891.oss-*.aliyuncs.com^
-||107.167.22.*.gif
 ! 👇This Part Merge from: AdGuard 移动广告过滤器 (https://filters.adtidy.org/android/filters/11_optimized.txt)
 ||reachableads-av.*.amazonaws.com^
 ||ads-*-nfl.yinzcam.com^
@@ -78,6 +62,22 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
+! 👇This Part Merge from: AdGuard 中文过滤器 (https://filters.adtidy.org/android/filters/224_optimized.txt)
+||38.33.15.*.gif
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||67.21.92.*.gif
+||adi*.cnool.net^
+||tupian888.*.bcebos.com^
+||txhfgwgkwt*.asia^
+||iwanshang*.asia^
+||ad*.on.cc^
+||ax.*.ifeng.com^
+||121.204.246.*.gif
+||107.167.16.*.gif
+||vns86.oss-*.aliyuncs.com^
+||asd8900.oss-*.aliyuncs.com^
+||ky891.oss-*.aliyuncs.com^
+||107.167.22.*.gif
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
 ||collect-v*.51.la^
 ||browser-intake-*-datadoghq.com^
@@ -159,15 +159,21 @@ Banner468x60
 ||ysdm*.ys137.com.cn^
 ! 👇This Part Merge from: uBlock₀ filters – Privacy (https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt)
 ||telemetry*.transcend.io^
+! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
+||ads*.dfiles.eu^
+@@||adobeid-*.services.adobe.com^
+||ads*.depositfiles.org^
 ! 👇This Part Merge from: 乘风 视频过滤规则 (https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt)
 728x90.jpg|
 ||onetrust.
 ! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://filters.adtidy.org/android/filters/14_optimized.txt)
 ||widgets.*.webengage.com^
 ! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
-||ads*.dfiles.eu^
-@@||adobeid-*.services.adobe.com^
-||ads*.depositfiles.org^
+||158.247.208.
+||23.109.82.
+||get-me-wow.
+||allsportsflix.
+||23.109.87.
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
 ||pixel*.production-public.tubi.io^
 ||cnt.winporn.
@@ -255,12 +261,6 @@ Banner468x60
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
-||158.247.208.
-||23.109.82.
-||get-me-wow.
-||allsportsflix.
-||23.109.87.
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
 ||tracking.*.miui.com^
 ||grs.dbankcloud.
@@ -268,34 +268,35 @@ Banner468x60
 ||mapi-log.qoo*.jp^
 ||analytics-*-nfl.yinzcam.com^
 ||mon*-platform-*.tiktokv.com^
-||api*.amplitude.com^
-||invenio_tracking_*.sgnapps.com^
 ||report.*.qq.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
-||seller-log-collector.shopee.
 ||rtlog*.tiktokv.us^
-||tracking-*.trnox.com^
 ||log*-applog-*.tiktokv.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||track.*.roku.com^
 ||appanalysis*.banggood.com^
-||device-metrics-*.amazon.com^
 ||maas-*.phunware.com^
-||batchlogging*-eu.truecaller.com^
-||log-collector.shopee.
-||report*.appmetrica.webvisor.com^
 directtrack.*.js
 ||fp-*it*.fengkongcloud.com^
 ||log*-misc-lf.amemv.com^
 ||beacons*.gvt3.com^
 ||rtlog*.tiktokv.com^
-||flurry.agentportal.*.yahoodns.net^
 ||logservice-*.platform.dbankcloud.cn^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||datacollector-*.dt.dbankcloud.cn^
 ||piano_log.kingsoft.jp^
 ||f-log-*.grammarly.io^
-||flurry.agentportal-*.yahoodns.net^
 ||log*.byteoversea.com^
-||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
+! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
+||flurry.agentportal.*.yahoodns.net^
+||api*.amplitude.com^
+||invenio_tracking_*.sgnapps.com^
+||batchlogging*-eu.truecaller.com^
+||seller-log-collector.shopee.
+||log-collector.shopee.
+||report*.appmetrica.webvisor.com^
+||tracking-*.trnox.com^
+||flurry.agentportal-*.yahoodns.net^
+||batchlogging*-noneu.truecaller.com^
+||device-metrics-*.amazon.com^
