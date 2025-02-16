@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-16 00:13:32
+! Last Modified: 2025-02-16 09:05:57
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: CJX's Annoyance List (https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
 ||acookie.*.gif?
@@ -79,6 +79,32 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
+! 👇This Part Merge from: jiekouAD (https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)
+||zcchyr*.xyz^
+||js.*2023*.live^
+||zaqlovh*.xyz^
+||zazgiyoh*.xyz^
+||zcchyw*.xyz^
+||molpmh.xyz|
+||sd.yhzzzs*.com^
+||bjkedv*.xyz^
+||p26.gejulm*.com^
+||gtlpa*.com^
+||at*.doubanio.com^
+||zazgiyoh*.world^
+||zabdybod*.club^
+||yhsfsdv*.com^
+||thezbpe5*.xyz^
+||zazgbqg*.xyz^
+||js.*2023*.xyz^
+@@||cdn-msp*.18comic.*^
+||zbc6hye*.xyz^
+||opnked*.xyz^
+||www.xxmh*.com^
+||163487*.qmgmw.com^
+||zahrvfbd*.xyz^
+||zbc6hy*.live^
+@@||cdn-msp*.18comic*.*^
 ! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
 ||reachableads-av.*.amazonaws.com^
 ||counter*.stat.ovh^
@@ -106,32 +132,6 @@ Banner468x60
 ||track.tiara.
 ||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
-! 👇This Part Merge from: jiekouAD (https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)
-||zcchyr*.xyz^
-||js.*2023*.live^
-||zaqlovh*.xyz^
-||zazgiyoh*.xyz^
-||zcchyw*.xyz^
-||molpmh.xyz|
-||sd.yhzzzs*.com^
-||bjkedv*.xyz^
-||p26.gejulm*.com^
-||gtlpa*.com^
-||at*.doubanio.com^
-||zazgiyoh*.world^
-||zabdybod*.club^
-||yhsfsdv*.com^
-||thezbpe5*.xyz^
-||zazgbqg*.xyz^
-||js.*2023*.xyz^
-@@||cdn-msp*.18comic.*^
-||zbc6hye*.xyz^
-||opnked*.xyz^
-||www.xxmh*.com^
-||163487*.qmgmw.com^
-||zahrvfbd*.xyz^
-||zbc6hy*.live^
-@@||cdn-msp*.18comic*.*^
 ! 👇This Part Merge from: AdGuard 中文过滤器 (https://filters.adtidy.org/android/filters/224_optimized.txt)
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
@@ -160,15 +160,15 @@ Banner468x60
 ||sam*.baby-kingdom.com^
 ||qpb*.sohu.com^
 ||union*.365inews.com^
+! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://filters.adtidy.org/android/filters/14_optimized.txt)
+||widgets.*.webengage.com^
+! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
+@@||adobeid-*.services.adobe.com^
+! 👇This Part Merge from: uBlock₀ filters – Privacy (https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt)
+||telemetry*.transcend.io^
 ! 👇This Part Merge from: 乘风 视频过滤规则 (https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt)
 728x90.jpg|
 ||onetrust.
-! 👇This Part Merge from: uBlock₀ filters – Privacy (https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt)
-||telemetry*.transcend.io^
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
-@@||adobeid-*.services.adobe.com^
-! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://filters.adtidy.org/android/filters/14_optimized.txt)
-||widgets.*.webengage.com^
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
 ||tccd.douglas.
 ! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
