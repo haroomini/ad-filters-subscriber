@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-04-27 16:16:26
+! Last Modified: 2025-04-28 00:15:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: CJX's Annoyance List (https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
 ||acookie.*.gif?
@@ -40,13 +40,6 @@
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||107.167.22.*.gif
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
-||reachableads-av.*.amazonaws.com^
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||advert*.livesportmedia.eu^
-||fxhpaoxqyajvmdg.
-||prebid-*.rubiconproject.com^
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
 ||install*.zonastat.com^
 ||mssdk*.zijieapi.com^
@@ -69,6 +62,13 @@
 ||track.tiara.
 ||analytics*.clickdimensions.com^
 ||rum*.cdnvideo.ru^
+! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
+||reachableads-av.*.amazonaws.com^
+||counter*.stat.ovh^
+||ads.livetv*.me^
+||advert*.livesportmedia.eu^
+||fxhpaoxqyajvmdg.
+||prebid-*.rubiconproject.com^
 ! 👇This Part Merge from: AdGuard 中文过滤器 (https://filters.adtidy.org/android/filters/224_optimized.txt)
 ||sax*.sina.
 ||same*.stockstar.com^
@@ -102,9 +102,6 @@
 ||ysdm*.ys137.com.cn^
 ||ac*.pingguolv.com^
 ||at*.doubanio.com^
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
-@@||adobeid-*.services.adobe.com^
-Banner468x60
 ! 👇This Part Merge from: jiekouAD (https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
@@ -130,28 +127,21 @@ Banner468x60
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
+! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
+@@||adobeid-*.services.adobe.com^
+Banner468x60
 ! 👇This Part Merge from: uBlock₀ filters – Privacy (https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt)
 ||telemetry*.transcend.io^
+! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://filters.adtidy.org/android/filters/14_optimized.txt)
+||widgets.*.webengage.com^
 ! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
 ||get-me-wow.
 ||admi2fib4exit^
-! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
-||tccd.douglas.
-! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://filters.adtidy.org/android/filters/14_optimized.txt)
-||widgets.*.webengage.com^
 ! 👇This Part Merge from: AdGuard 基础过滤器 (https://filters.adtidy.org/android/filters/2_optimized.txt)
 ||158.247.208.
 ||23.109.82.
 ||allsportsflix.
 ||23.109.87.
-! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
-||ns_.-043ns11.net.daraz.com^
-! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
-|load.ss.
-|load.sst.
-||thegreatesthits.
-|load.sgtm.
-|load.gtm.
 ! 👇This Part Merge from: AdGuard 移动广告过滤器 (https://filters.adtidy.org/android/filters/11_optimized.txt)
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
@@ -195,6 +185,16 @@ Banner468x60
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
+! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
+||tccd.douglas.
+! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
+||ns_.-043ns11.net.daraz.com^
+! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
+|load.ss.
+|load.sst.
+||thegreatesthits.
+|load.sgtm.
+|load.gtm.
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -303,6 +303,8 @@ Banner468x60
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
+directtrack.*.js
+! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://filters.adtidy.org/android/filters/3_optimized.txt)
 ||ulog*.kwai-pro.com^
 ||ulogs*.ksapisrv.com^
 ||grs.dbankcloud.
@@ -359,7 +361,6 @@ r.rakuten.co.jp%2F*.gif%3Fmpe%3D
 ||report.*.gbqofs.io^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
-directtrack.*.js
 ||beacons*.gvt3.com^
 ||flurry.agentportal.*.yahoodns.net^
 ||rtlog*.tiktokv.com^
